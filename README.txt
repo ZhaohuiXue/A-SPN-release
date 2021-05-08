@@ -43,4 +43,7 @@
 %
 %   Copyright (c) 2021 by Zhaohui Xue & Mengxue Zhang
 %   zhaohui.xue@hhu.edu.cn & mengxue_zhang@hhu.edu.cn
+%   --------------------------------------
+%   For full package:
+%   --------------------------------------
 %   https://sites.google.com/site/zhaohuixuers/
