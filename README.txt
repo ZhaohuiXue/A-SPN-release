@@ -8,9 +8,7 @@
 %    main.py ....... A main script executing experiments upon IP, PU, and HU data sets.
 %    data.py ....... A script implementing various data manipulation functions.
 %    function.py ....... A script implementing the training function, the test function, and etc.
-%    model.py ....... A script implementing the SPN and A-SPN models.
-%    secondpooling.py ....... A script implementing the Second Order Pooling Operator, namely, SOP.
-%    spatialattention.py ....... A script implementing the Attention-based SOP, namely, A-SOP.
+%    model.pyd ....... A script implementing the SPN and A-SPN models.
 % 
 %    /Dataset ............... The folder including the IP, PU, and HU data sets, where "DS" represents spatially disjoint.
 %    /temp_vars ............... The folder storing temporary results of PCA preprocessing.
@@ -19,7 +17,7 @@
 %   --------------------------------------
 %   Note: Required core python libraries
 %   --------------------------------------
-%   1. python 3.6.5
+%   1. python 3.7
 %   2. tensorflow-gpu 1.14.0
 %   3. tensorboard 1.14.0
 %   4. Keras 2.2.5
